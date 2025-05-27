@@ -46,9 +46,9 @@
     "CanUnloadAsync": false, 
     "LoadPriority": 0, 
     "ImageUrls": [
-      "https://raw.githubusercontent.com/Ookura-Risona/ffxiv-priceinsight/master/PriceInsight/images/image1.png"
+      "https://raw.githubusercontent.com/Ookura-Risona/ffxiv-priceinsight/master/images/image1.png"
     ], 
-    "IconUrl": "https://raw.githubusercontent.com/Ookura-Risona/ffxiv-priceinsight/master/PriceInsight/images/icon.png", 
+    "IconUrl": "https://raw.githubusercontent.com/Ookura-Risona/ffxiv-priceinsight/master/images/icon.png", 
     "Punchline": "\u5c06\u5149\u6807\u60ac\u505c\u5728\u7269\u54c1\u4e0a\u6765\u67e5\u770b\u5e02\u573a\u4ef7\u683c", 
     "AcceptsFeedback": true, 
     "IsHide": false, 
