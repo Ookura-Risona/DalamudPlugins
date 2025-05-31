@@ -4,7 +4,7 @@
     "Name": "AutoDuty",
     "InternalName": "AutoDuty",
     "AssemblyVersion": "0.0.0.198",
-    "Description": "\u4E00\u4E2A\u4E3A\u4F60\u81EA\u52A8\u8FD0\u884C\u526F\u672C\u7684\u63D2\u4EF6\n\u652F\u6301\u4EB2\u4FE1\u6218\u53CB\u3001\u5267\u60C5\u8F85\u52A9\u5668\u3001\u5192\u9669\u8005\u5206\u961F\u3001\u591A\u53D8\u8FF7\u5BAB\u548C\u666E\u901A\u8FF7\u5BAB\u6A21\u5F0F\n\u9700\u8981%20BossMod\u3001vnavmesh%20\u548C\u4E00\u4E2A\u6218\u6597\u5FAA\u73AF\u63D2\u4EF6%20%28\u5982%20Wrath%20Combo\u3001BossMod%20AutoRotation%20\u6216%20RotationSolverReborn%29\n",
+    "Description": "\u4E00\u4E2A\u4E3A\u4F60\u81EA\u52A8\u8FD0\u884C\u526F\u672C\u7684\u63D2\u4EF6%5Cn\u652F\u6301\u4EB2\u4FE1\u6218\u53CB\u3001\u5267\u60C5\u8F85\u52A9\u5668\u3001\u5192\u9669\u8005\u5206\u961F\u3001\u591A\u53D8\u8FF7\u5BAB\u548C\u666E\u901A\u8FF7\u5BAB\u6A21\u5F0F%5Cn\u9700\u8981%20BossMod\u3001vnavmesh%20\u548C\u4E00\u4E2A\u5FAA\u73AF\u63D2\u4EF6%20%28\u5982%20Wrath%20Combo\u3001BossMod%20AutoRotation%20\u6216%20RotationSolverReborn%29\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/lsl1225/AutoDutyCN",
     "DalamudApiLevel": 11,
