@@ -4,7 +4,7 @@
     "Name": "AutoDuty",
     "InternalName": "AutoDuty",
     "AssemblyVersion": "0.0.0.199",
-    "Description": "（实际版本号依旧为0.198，改为199只是为了让卫月推送更新）\n一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
+    "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Ookura-Risona/AutoDutyCN",
     "DalamudApiLevel": 11,
