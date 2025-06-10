@@ -12,7 +12,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Changelog": "增加了少量翻译\n修改了自动练级路线，目前会在究极神兵破坏作战升级至71级再更换副本\n*未自行计算过效率，但应当与最优路线相差不多，且神兵同步50级，能吃到初学者戒指加成\n*若有更好路线欢迎来反馈（提issues或者私聊我什么的都行））", 
+    "Changelog": "增加了少量翻译\n修改了自动练级路线，目前会在究极神兵破坏作战升级至71级再更换副本\n*未自行计算过效率，但应当与最优路线相差不多，且神兵同步50级，能吃到初学者戒指加成\n*若有更好路线欢迎来反馈（提issues或者私聊我什么的都行）", 
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
       "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
