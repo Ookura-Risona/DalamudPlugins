@@ -56,7 +56,6 @@
     "IsTestingExclusive": false, 
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip", 
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip", 
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip"
   }, 
   {
     "Name": "V(ery) Island",
@@ -70,7 +69,6 @@
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Ookura-Risona/ffxiv_visland-cn",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip"
   },
   {
@@ -108,5 +106,20 @@
     "DownloadLinkInstall": "https://github.com/Ookura-Risona/NekoFans/releases/download/1.3.4/NekoFans.zip",
     "DownloadLinkTesting": "https://github.com/Ookura-Risona/NekoFans/releases/download/1.3.4/NekoFans.zip",
     "DownloadLinkUpdate": "https://github.com/Ookura-Risona/NekoFans/releases/download/1.3.4/NekoFans.zip"
+  },
+  {
+    "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
+    "Name": "Lifestream（Risona修改自动版）",
+    "Punchline": "一个加速以太网旅行和跨服的插件。",
+    "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们\n\n--将点击地图上的城内以太之光的部分修改为使用DR的“更好的传送界面”模块，可以在地图的任何位置直接点击水晶传送\n--请自行安装Daily Routines并启用“更好的传送界面”模块\n\n警告：该模块在同一地图内传送为直接瞬移，使用请自行承担风险",
+    "InternalName": "Lifestream",
+    "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
+    "AssemblyVersion": "2.4.0.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
+    "DownloadCount": 0,
   }
 ]
