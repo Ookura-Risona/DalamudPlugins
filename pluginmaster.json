@@ -109,9 +109,9 @@
   },
   {
     "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
-    "Name": "Lifestream（Risona修改自动版）",
+    "Name": "Lifestream（Risona修改自用版）",
     "Punchline": "一个加速以太网旅行和跨服的插件。",
-    "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们\n\n--将点击地图上的城内以太之光的部分修改为使用DR的“更好的传送界面”模块，可以在地图的任何位置直接点击水晶传送\n--请自行安装Daily Routines并启用“更好的传送界面”模块\n\n警告：该模块在同一地图内传送为直接瞬移，使用请自行承担风险",
+    "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们\n\n将点击地图上的城内以太之光的部分修改为使用DR的“更好的传送界面”模块，可以在地图的任何位置直接点击水晶传送\n请自行安装Daily Routines并启用“更好的传送界面”模块\n\n警告：该模块在同一地图内传送为直接瞬移，使用请自行承担风险",
     "InternalName": "Lifestream",
     "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
     "AssemblyVersion": "2.4.0.5",
