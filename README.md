@@ -2,10 +2,19 @@
 由Risona汉化/修改的部分插件，主要为自用/供亲友使用，不保证质量与更新速度
 
 ## 仓库链接
-请在 ```卫月设置-实验性功能-自定义插件仓库``` 中添加以下链接：
+请在 ```卫月设置-实验性功能-自定义插件仓库``` 中添加以下链接之一：
+
+### 原始链接
 ```
 https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/main/pluginmaster.json
 ```
+### 国内加速
+```
+https://gh.risona.top/pluginmaster.json
+```
+更推荐使用原始链接
+
+<br>
 
 ## 插件列表
 
