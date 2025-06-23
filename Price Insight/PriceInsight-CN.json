@@ -1,0 +1,29 @@
+{
+  "Author": "Kouzukii",
+  "Name": "Price Insight CN",
+  "InternalName": "PriceInsight-CN",
+  "AssemblyVersion": "2.11.2.0",
+  "Description": "当您鼠标悬停在物品上时会在物品底部展示该物品的 NQ/HQ 市场价格以及最近一次交易记录。\n价格从 Universalis.app 中搜索，缓存保存90分钟\n您可以将鼠标悬停在物品上，点击Alt来刷新价格\n",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight",
+  "Tags": [
+    "marketboard",
+    "items",
+    "price"
+  ],
+  "CategoryTags": [
+    "ui",
+    "utility"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/Kouzukii/ffxiv-priceinsight/master/images/icon.png",
+  "Punchline": "将鼠标悬停在物品上来查看市场价格",
+  "AcceptsFeedback": true
+}
