@@ -1,0 +1,16 @@
+{
+  "Author": "veyn, croizat, AtmoOmen (本地化)",
+  "Name": "V(ery) Island",
+  "InternalName": "visland",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "帮你完成自动采集, 自动派遣等等",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 11,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_visland/d3338f6ddbf54365e60fbdf8e85ea8f5abdb745f/icon.png",
+  "Punchline": "自动化无人岛作业",
+  "AcceptsFeedback": true
+}
