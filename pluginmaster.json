@@ -3,16 +3,15 @@
     "Author": "Herculezz",
     "Name": "AutoDuty",
     "InternalName": "AutoDuty",
-    "AssemblyVersion": "0.0.0.199",
-    "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
+    "AssemblyVersion": "0.0.0.200",
+    "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）\n\n未实际测试的更新\n",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Ookura-Risona/AutoDutyCN",
-    "DalamudApiLevel": 11,
+    "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
+    "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Changelog": "增加了少量翻译\n修改了自动练级路线，目前会在究极神兵破坏作战升级至71级再更换副本\n*未自行计算过效率，但应当与最优路线相差不多，且神兵同步50级，能吃到初学者戒指加成\n*若有更好路线欢迎来反馈（提issues或者私聊我什么的都行）", 
     "ImageUrls": [
       "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
       "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
@@ -31,8 +30,8 @@
     "Author": "Kouzukii", 
     "Name": "Price Insight CN", 
     "InternalName": "PriceInsight-CN", 
-    "AssemblyVersion": "2.11.1.1", 
-    "Description": "当您鼠标悬停在物品上时会在物品信息底部展示该物品的 NQ/HQ 市场价格以及最近一次交易记录。\n价格从 Universalis.app 中搜索，缓存保存90分钟。\n您可以将鼠标悬停在物品上，点击Alt来刷新价格。\n", 
+    "AssemblyVersion": "2.11.1.2", 
+    "Description": "当您鼠标悬停在物品上时会在物品信息底部展示该物品的 NQ/HQ 市场价格以及最近一次交易记录。\n价格从 Universalis.app 中搜索，缓存保存90分钟。\n您可以将鼠标悬停在物品上，点击Alt来刷新价格。\n\n未实际测试的更新\n", 
     "ApplicableVersion": "any", 
     "RepoUrl": "https://github.com/kouzukii/ffxiv-priceinsight", 
     "Tags": [
@@ -41,7 +40,7 @@
       "price"
     ], 
     "CategoryTags": [], 
-    "DalamudApiLevel": 11, 
+    "DalamudApiLevel": 12, 
     "LoadRequiredState": 0, 
     "LoadSync": false, 
     "CanUnloadAsync": false, 
@@ -60,12 +59,12 @@
   {
     "Name": "V(ery) Island",
     "InternalName": "visland",
-    "AssemblyVersion": "0.0.0.133",
+    "AssemblyVersion": "0.0.0.134",
     "Author": "veyn, AtmoOmen",
     "Punchline": "自动化无人岛采集作业",
-    "Description": "自动化无人岛采集/工房作业等等\n",
+    "Description": "自动化无人岛采集/工房作业等等\n\n未实际测试的更新\n",
      "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Ookura-Risona/ffxiv_visland-cn",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip",
@@ -85,6 +84,5 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
     "DownloadCount": 0,
-    "Changelog":"把优雷卡冰火水三岛的悬浮窗提前加上来，不玩ULK不需要更新"
   }
 ]
