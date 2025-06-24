@@ -104,7 +104,7 @@
     "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们\n\n修改内容：\n将点击地图内的以太水晶的部分改为使用DR的“更好的传送界面”模块，可以在地图的任何位置直接点击水晶传送\n请自行安装Daily Routines并启用“更好的传送界面”模块\n\n警告：该模块在同一地图内传送为直接瞬移，使用请自行承担风险",
     "InternalName": "Lifestream",
     "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-    "AssemblyVersion": "2.4.1.12",
+    "AssemblyVersion": "2.5.1.12",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
