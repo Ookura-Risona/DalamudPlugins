@@ -111,5 +111,20 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
     "DownloadCount": 0,
+  },
+  {
+    "Author": "kawaii, NightmareXIV",
+    "Name": "AutoRetainer",
+    "Punchline": "在舒适的床上分配任务给你的雇员。",
+    "Description": "在舒适的床上分配任务给你的雇员。",
+    "InternalName": "AutoRetainer",
+    "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+    "AssemblyVersion": "4.5.0.4",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
+    "DownloadCount": 0,
   }
 ]
