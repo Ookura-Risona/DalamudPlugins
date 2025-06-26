@@ -81,7 +81,7 @@
     "IsHide": false, 
     "IsTestingExclusive": false, 
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip", 
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip", 
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip"
   }, 
   {
     "Name": "V(ery) Island",
@@ -110,7 +110,7 @@
     "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 0
   },
   {
     "Author": "kawaii, NightmareXIV",
@@ -122,9 +122,9 @@
     "AssemblyVersion": "4.5.0.4",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
-    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png"
+    "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 0
   }
 ]
