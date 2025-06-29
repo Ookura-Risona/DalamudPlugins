@@ -145,8 +145,8 @@
   {
     "Author": "croizat",
     "Name": "Something Need Doing",
-    "Punchline": "Work work.（大概能用的旧版SND）",
-    "Description": "（安装前请删除新版的SND）\n现在不只是制作！",
+    "Punchline": "Work work.（旧版SND）",
+    "Description": "安装前请删除新版的SND，大概可以用，没试过，不确定",
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoingLegacy",
     "AssemblyVersion": "12.1",
