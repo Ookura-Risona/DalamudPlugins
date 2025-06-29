@@ -130,7 +130,7 @@
   {
     "Author": "croizat",
     "Name": "Something Need Doing",
-    "Punchline": "Work work.",
+    "Punchline": "Work work.（新版SND）",
     "Description": "现在不只是制作！",
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Ookura-Risona/SomethingNeedDoing",
@@ -140,6 +140,21 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
+    "DownloadCount": 0
+  }
+  {
+    "Author": "croizat",
+    "Name": "Something Need Doing",
+    "Punchline": "Work work.（大概能用的旧版SND）",
+    "Description": "（安装前请删除新版的SND）\n现在不只是制作！",
+    "InternalName": "SomethingNeedDoing",
+    "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoingLegacy",
+    "AssemblyVersion": "12.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/latest.zip",
     "DownloadCount": 0
   }
 ]
