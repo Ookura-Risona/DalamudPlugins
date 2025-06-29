@@ -1,0 +1,17 @@
+{
+  "Author": "daemitus, croizat",
+  "Name": "Something Need Doing (Expanded Edition)",
+  "InternalName": "SomethingNeedDoing",
+  "AssemblyVersion": "0.0.0.0",
+  "Description": "Now for more than crafting!",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/Jaksuhn/SomethingNeedDoing/master/res/orc2.png",
+  "Punchline": "Work work.",
+  "AcceptsFeedback": true
+}
