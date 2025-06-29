@@ -23,4 +23,5 @@ https://gh.risona.top/pluginmaster.json
 | [Price Insight](https://github.com/Ookura-Risona/ffxiv-priceinsight) | [Kouzukii](https://github.com/Kouzukii) | 7.2 | 汉化 |
 | [V(ery) Island](https://github.com/Ookura-Risona/ffxiv_visland-cn) | [veyn](https://github.com/awgil) | 7.2 | 原由[AtmoOmen](https://github.com/AtmoOmen)汉化，合并上游更新 |
 | [Lifestream](https://github.com/Ookura-Risona/Lifestream) | [NightmareXIV](https://github.com/NightmareXIV) | 7.2 | 由[NiGuangOwO](https://github.com/NiGuangOwO)汉化，修改部分内容 |
-| [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.2| 汉化，质量很差，但应该基本都能看懂 |
+| [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.2 | 汉化，质量很差，但应该基本都能看懂 |
+| [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.2 | 汉化，没用过，不知道有没有问题 |
