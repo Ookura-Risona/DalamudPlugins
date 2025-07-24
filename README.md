@@ -26,3 +26,4 @@ https://gh.risona.top/pluginmaster.json
 | [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.2 | 汉化，质量很差，但应该基本都能看懂 |
 | [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.2 | 汉化，没用过，不知道有没有问题 |
 | [SomethingNeedDoingLegacy](https://github.com/Jaksuhn/SomethingNeedDoingLegacy) | [croizat](https://github.com/Jaksuhn) | 7.2 | 旧版SND，只编译了一下，应该能用，不确定有啥问题 |
+| [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.2 | 汉化 |
