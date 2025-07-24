@@ -1,0 +1,24 @@
+{
+  "Author": "UnknownX",
+  "Name": "QoL Bar",
+  "InternalName": "QoLBar",
+  "AssemblyVersion": "2.3.3.4",
+  "Description": "一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件\n最开始这个插件会显示为界面下方的一个小方框。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Ookura-Risona/QoLBar",
+  "CategoryTags": [
+    "UI",
+    "utility"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
+  "Punchline": "支持自定义的可视化快捷栏",
+  "AcceptsFeedback": true
+}
