@@ -131,7 +131,7 @@
     "Author": "croizat",
     "Name": "Something Need Doing",
     "Punchline": "Work work.（新版SND）",
-    "Description": "现在不只是制作！/n/n注：由于snd现阶段更新频率较高，难以及时同步上游更新，若脚本作者需要使用新版本的方法或上游出现重要更新时，请通过github、discord、qq等方式联系我，其余时间将会不定期缓慢更新。",
+    "Description": "现在不只是制作！\n\n注：由于snd现阶段更新频率较高，难以及时同步上游更新，若脚本作者需要使用新版本的方法或上游出现重要更新时，请通过github、discord、qq等方式联系我，其余时间将会不定期缓慢更新。",
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Ookura-Risona/SomethingNeedDoing",
     "AssemblyVersion": "12.75",
