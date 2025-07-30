@@ -153,8 +153,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/SomethingNeedDoing-12.0.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/SomethingNeedDoing-12.0.0.0.zip",
     "DownloadCount": 0
   },
   {
