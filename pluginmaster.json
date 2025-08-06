@@ -119,7 +119,7 @@
     "Description": "在舒适的床上分配任务给你的雇员。",
     "InternalName": "AutoRetainer",
     "RepoUrl": "https://github.com/Ookura-Risona/AutoRetainer",
-    "AssemblyVersion": "4.5.1.12.1",
+    "AssemblyVersion": "4.5.1.13",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
