@@ -171,5 +171,32 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
     "DownloadCount": 0
+  },
+  {
+    "Author": "Faye",
+    "Name": "Better Occult Crescent & Chest Helper Interface",
+    "Punchline": "BOCCHI 将带给你更好的新月岛体验",
+    "Description": "临时版本，部分名词可能与国服翻译不符，CE名称使用了zy视频里的，FATE未翻译，可能存在部分我理解错误的地方，等待后续优化",
+    "InternalName": "BOCCHI",
+    "RepoUrl": "https://github.com/Ookura-Risona/OccultCrescentHelper",
+    "AssemblyVersion": "0.0.0.1",
+    "Tags": [
+        "BOCCHI",
+        "Occult Crescent",
+        "Occult",
+        "Crescent",
+        "Illegal",
+        "Critical Encounter",
+        "Fate",
+        "Faye",
+        "BOCCHER",
+        "OCH"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/BOCCHI/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/BOCCHI/latest.zip",
+    "DownloadCount": 0
   }
 ]
