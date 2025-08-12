@@ -176,10 +176,10 @@
     "Author": "Faye",
     "Name": "Better Occult Crescent & Chest Helper Interface",
     "Punchline": "BOCCHI 将带给你更好的新月岛体验",
-    "Description": "临时版本，部分名词可能与国服翻译不符，CE名称使用了zy视频里的，FATE未翻译，可能存在部分我理解错误的地方，等待后续优化",
+    "Description": "请先安装并启用Vnavmesh再下载本插件\n大致汉化完成，等待后续优化",
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/Ookura-Risona/OccultCrescentHelper",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Tags": [
         "BOCCHI",
         "Occult Crescent",
