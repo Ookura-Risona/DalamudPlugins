@@ -27,3 +27,4 @@ https://gh.risona.top/pluginmaster.json
 | [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.2 | 汉化，没用过，不知道有没有问题 |
 | [SomethingNeedDoingLegacy](https://github.com/Jaksuhn/SomethingNeedDoingLegacy) | [croizat](https://github.com/Jaksuhn) | 7.2 | 旧版SND，直接从punish的dc拿的 |
 | [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.2 | 汉化 |
+| [BOCCHI](https://github.com/Ookura-Risona/OccultCrescentHelper) | [Faye](https://github.com/OhKannaDuh) | 7.2 | 汉化 |
