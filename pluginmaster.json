@@ -179,7 +179,7 @@
     "Description": "请先安装并启用Vnavmesh再下载本插件\n大致汉化完成，等待后续优化",
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/Ookura-Risona/OccultCrescentHelper",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "Tags": [
         "BOCCHI",
         "Occult Crescent",
