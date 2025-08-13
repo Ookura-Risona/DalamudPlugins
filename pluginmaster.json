@@ -198,5 +198,36 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/BOCCHI/latest.zip",
     "DownloadCount": 0
+  },
+  {
+    "Author": "Infi, electr0sheep",
+    "Name": "Eureka Linker",
+    "Punchline": "We All Love Eureka And Occult",
+    "Description": "可能可以用\nAutomatically notifies you about NMs in Eureka, with the ability to pop them on a tracker.\nOther Features:\n- Fairy Finder\n- Bunny Timer Window\n- Bunny Coffer Helper\n- Stats\n- Quest Guide (clickable coords)\n- Localized (DE, FR, JA)\n\nOccult:\n- Random Treasure Proximity Notification\n- Bunny Carrot Proximity Notification\n- Pot Coffer Helper\n- Pot Timer Window\n- Map Markers For Treasure, Bunny, Pot",
+    "InternalName": "EurekaTrackerAutoPopper",
+    "RepoUrl": "https://github.com/Ookura-Risona/EurekaTrackerAutoPopper",
+    "AssemblyVersion": "0.0.0.1",
+    "Tags": [
+      "Plugin",
+      "Eureka",
+      "Tracker",
+      "Quest",
+      "Elemental",
+      "Fairy",
+      "Bunny",
+      "Occult",
+      "Treasure",
+      "Pots",
+      "Carrot",
+      "Forked Tower",
+      "Fates",
+      "CEs"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "12",
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/EurekaTrackerAutoPopper/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
+    "DownloadCount": 0
   }
 ]
