@@ -176,10 +176,10 @@
     "Author": "Faye",
     "Name": "Better Occult Crescent & Chest Helper Interface",
     "Punchline": "BOCCHI 将带给你更好的新月岛体验",
-    "Description": "请支持逆光喵，推荐使用逆光喵的BOCCHI喵",
+    "Description": "请支持逆光喵，推荐换成逆光喵的BOCCHI喵\n（我直接把逆光的偷过来了是能说的吗）",
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/Ookura-Risona/OccultCrescentHelper",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
     "Tags": [
         "BOCCHI",
         "Occult Crescent",
@@ -195,8 +195,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/BOCCHI/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/BOCCHI/latest.zip",
+    "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BOCCHI/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0
   },
   {
