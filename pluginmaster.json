@@ -176,7 +176,7 @@
     "Author": "Faye",
     "Name": "Better Occult Crescent & Chest Helper Interface",
     "Punchline": "BOCCHI 将带给你更好的新月岛体验",
-    "Description": "请支持逆光喵，推荐换成逆光喵的BOCCHI喵\n（我直接把逆光的偷过来了是能说的吗）",
+    "Description": "如果下载后无法出现插件界面，请更换为使用逆光的仓库\n库链：https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/Ookura-Risona/OccultCrescentHelper",
     "AssemblyVersion": "0.69.1.4",
