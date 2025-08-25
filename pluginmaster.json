@@ -1,31 +1,5 @@
 [
-  {
-    "Author": "Herculezz",
-    "Name": "AutoDuty",
-    "InternalName": "AutoDuty",
-    "AssemblyVersion": "0.0.0.200",
-    "Description": "请删除这个插件，并在同一个库里下载另一个简介正常的AutoDuty\n修改了错误的插件主页链接，导致卫月会把它们识别为两个不同插件\n预计将于后续删除本版本，请及时更换到正确的版本。\n",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/Ookura-Risona/AutoDutyCN",
-    "DalamudApiLevel": 12,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "ImageUrls": [
-      "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
-      "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
-      "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
-      "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
-      "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
-    ],
-    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
-    "Punchline": "AutoDuty",
-    "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoDuty/latest.zip",
-    "IsHide": false,
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoDuty/latest.zip"
-  },
+
     {
     "Author": "Herculezz",
     "Name": "AutoDuty",
@@ -40,11 +14,11 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "ImageUrls": [
-      "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
-      "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
-      "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
-      "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
-      "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/主界面.png",
+      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/创建.png",
+      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/配置.png",
+      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/设置.png",
+      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/悬浮窗.png"
     ],
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "Punchline": "AutoDuty",
