@@ -13,13 +13,6 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/主界面.png",
-      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/创建.png",
-      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/配置.png",
-      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/设置.png",
-      "https://raw.githubusercontent.com/Ookura-Risona/AutoDuty/master/Assets/悬浮窗.png"
-    ],
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "Punchline": "AutoDuty",
     "AcceptsFeedback": true,
