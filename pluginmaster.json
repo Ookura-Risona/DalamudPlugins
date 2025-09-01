@@ -4,7 +4,7 @@
     "Author": "Herculezz",
     "Name": "AutoDuty",
     "InternalName": "AutoDuty",
-    "AssemblyVersion": "0.0.0.228",
+    "AssemblyVersion": "0.0.0.229",
     "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）\n",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
