@@ -1,0 +1,23 @@
+[
+
+    {
+    "Author": "Herculezz",
+    "Name": "AutoDuty",
+    "InternalName": "AutoDuty",
+    "AssemblyVersion": "0.0.0.231",
+    "Description": "别用这个仓库，这不是裤链！！！！！！！！！",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+    "Punchline": "AutoDuty",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/ceshi/AutoDuty/latest.zip",
+    "IsHide": false,
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/ceshi/AutoDuty/latest.zip"
+  }
+]
