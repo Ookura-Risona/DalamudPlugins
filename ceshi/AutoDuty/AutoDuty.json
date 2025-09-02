@@ -1,0 +1,24 @@
+{
+  "Author": "Herculezz",
+  "Name": "AutoDuty",
+  "InternalName": "AutoDuty",
+  "AssemblyVersion": "0.0.0.221",
+  "Description": "一个为你自动运行副本的插件\n支持亲信战友、剧情辅助器、冒险者分队、多变迷宫和普通迷宫模式\n需要 BossMod、vnavmesh 和一个循环插件（如 WrathCombo、BossMod AutoRotation 或 RotationSolverReborn）",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    "https://s3.puni.sh/media/plugin/54/image-15l1o9gf3yg.png",
+    "https://s3.puni.sh/media/plugin/54/image-gc84lu4pdpb.png",
+    "https://s3.puni.sh/media/plugin/54/image-vkvtqki3ggh.png",
+    "https://s3.puni.sh/media/plugin/54/image-pw9lcsan22.png",
+    "https://s3.puni.sh/media/plugin/54/image-5lu04i95hz8.png"
+  ],
+  "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+  "Punchline": "AutoDuty",
+  "AcceptsFeedback": true
+}
