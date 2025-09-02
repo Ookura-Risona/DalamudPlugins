@@ -4,7 +4,7 @@
     "Author": "Herculezz",
     "Name": "AutoDuty",
     "InternalName": "AutoDuty",
-    "AssemblyVersion": "0.0.0.231",
+    "AssemblyVersion": "0.0.0.232",
     "Description": "别用这个仓库，这不是裤链！！！！！！！！！",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/Ookura-Risona/AutoDuty",
@@ -21,3 +21,4 @@
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/ceshi/AutoDuty/latest.zip"
   }
 ]
+
