@@ -1,0 +1,33 @@
+name: Replace Domain in pluginmaster.json
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  modify-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Replace domain in JSON file
+        run: |
+          sed -i 's/raw\.githubusercontent\.com/gh-raw.risona.top/g' pluginmaster.json
+          
+          if git diff --exit-code; then
+            echo "No changes were made to the file."
+            exit 0
+          else
+            echo "File has been successfully modified."
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add pluginmaster.json
+          git commit -m "Modify pluginmaster-cn.json"
+          git push
