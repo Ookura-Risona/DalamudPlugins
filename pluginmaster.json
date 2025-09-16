@@ -1,4 +1,5 @@
 [
+
     {
     "Author": "Herculezz",
     "Name": "AutoDuty",
@@ -15,9 +16,9 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
     "Punchline": "AutoDuty",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/AutoDuty/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoDuty/latest.zip",
     "IsHide": false,
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/AutoDuty/latest.zip"
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoDuty/latest.zip"
   },
   {
     "Author": "Kouzukii", 
@@ -38,12 +39,16 @@
     "LoadSync": false, 
     "CanUnloadAsync": false, 
     "LoadPriority": 0, 
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Ookura-Risona/ffxiv-priceinsight/master/images/image1.png"
+    ], 
+    "IconUrl": "https://raw.githubusercontent.com/Ookura-Risona/ffxiv-priceinsight/master/images/icon.png", 
     "Punchline": "将光标悬停在物品上来查看市场价格", 
     "AcceptsFeedback": true, 
     "IsHide": false, 
     "IsTestingExclusive": false, 
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip", 
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip", 
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Price%20Insight/latest.zip"
   }, 
   {
     "Name": "V(ery) Island",
@@ -56,8 +61,8 @@
     "DalamudApiLevel": 12,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Ookura-Risona/ffxiv_visland-cn",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip"
   },
   {
     "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -69,9 +74,9 @@
     "AssemblyVersion": "2.5.1.15",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
-    "IconUrl": "https://gh-raw.risona.top/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
     "DownloadCount": 0
   },
   {
@@ -85,8 +90,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/AutoRetainer/latest.zip",
     "DownloadCount": 0
   },
   {
@@ -100,8 +105,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
     "DownloadCount": 0
   },
   {
@@ -115,8 +120,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
     "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/SomethingNeedDoing-12.0.0.0.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/SomethingNeedDoing-12.0.0.0.zip",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/SomethingNeedDoing-12.0.0.0.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoingLegacy/SomethingNeedDoing-12.0.0.0.zip",
     "DownloadCount": 0
   },
   {
@@ -129,16 +134,16 @@
     "AssemblyVersion": "2.3.3.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
-    "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
     "DownloadCount": 0
   },
   {
     "Author": "Faye",
     "Name": "Better Occult Crescent & Chest Helper Interface",
     "Punchline": "BOCCHI 将带给你更好的新月岛体验 (在线安装Only)",
-    "Description": "请支持逆光喵，推荐换成逆光喵的BOCCHI喵\n（我直接把逆光的偷过来了是能说的吗）\n如果下载后无法出现插件界面，请更换为使用逆光的仓库\n库链：https://gh-raw.risona.top/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
+    "Description": "请支持逆光喵，推荐换成逆光喵的BOCCHI喵\n（我直接把逆光的偷过来了是能说的吗）\n如果下载后无法出现插件界面，请更换为使用逆光的仓库\n库链：https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/Ookura-Risona/OccultCrescentHelper",
     "AssemblyVersion": "0.69.1.10",
@@ -156,7 +161,7 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
-    "IconUrl": "https://gh-raw.risona.top/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BOCCHI/latest.zip",
     "DownloadCount": 0
@@ -187,9 +192,9 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
-    "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/EurekaTrackerAutoPopper/images/icon.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/EurekaTrackerAutoPopper/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
     "DownloadCount": 0
   },
   {
@@ -205,9 +210,9 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": "12",
-    "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/JobBars/images/icon.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/JobBars/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
     "DownloadCount": 0
   }
 ]
