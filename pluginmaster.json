@@ -127,7 +127,7 @@
     "Description": "请支持逆光喵，推荐换成逆光喵的BOCCHI喵\n（我直接把逆光的偷过来了是能说的吗）\n如果下载后无法出现插件界面，请更换为使用逆光的仓库\n库链：https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/pluginmaster.json",
     "InternalName": "BOCCHI",
     "RepoUrl": "https://github.com/Ookura-Risona/OccultCrescentHelper",
-    "AssemblyVersion": "0.69.1.10",
+    "AssemblyVersion": "0.69.1.12",
     "Tags": [
         "BOCCHI",
         "Occult Crescent",
@@ -141,7 +141,7 @@
         "OCH"
     ],
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "12",
+    "DalamudApiLevel": "13",
     "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
     "DownloadLinkInstall": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BOCCHI/latest.zip",
     "DownloadLinkUpdate": "https://github.com/NiGuangOwO/DalamudPlugins/raw/main/plugins/BOCCHI/latest.zip",
