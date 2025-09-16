@@ -2,7 +2,7 @@
   "Author": "UnknownX",
   "Name": "QoL Bar",
   "InternalName": "QoLBar",
-  "AssemblyVersion": "2.3.3.6",
+  "AssemblyVersion": "2.3.3.7",
   "Description": "一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件\n最开始这个插件会显示为界面下方的一个小方框。",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Ookura-Risona/QoLBar",
@@ -10,7 +10,7 @@
     "UI",
     "utility"
   ],
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
