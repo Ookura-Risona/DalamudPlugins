@@ -19,11 +19,11 @@ https://gh.risona.top/pluginmaster.json
 
 | 名称      | 作者      | 游戏版本 | 备注 |
 |----------|----------|----------|----------|
-| [AutoDuty](https://github.com/Ookura-Risona/AutoDuty) | [Herculezz](https://github.com/Herculezz55) | 7.2 | 参考[MisaUo](https://github.com/MisaUo)的汉化，并汉化部分新增内容 |
-| [Price Insight](https://github.com/Ookura-Risona/ffxiv-priceinsight) | [Kouzukii](https://github.com/Kouzukii) | 7.2 | 汉化 |
-| [V(ery) Island](https://github.com/Ookura-Risona/ffxiv_visland-cn) | [veyn](https://github.com/awgil) | 7.2 | 原由[AtmoOmen](https://github.com/AtmoOmen)汉化，合并上游更新 |
-| [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.2 | 汉化，质量很差，但应该基本都能看懂 |
-| [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.2 | 汉化 |
-| [SomethingNeedDoingLegacy](https://github.com/Jaksuhn/SomethingNeedDoingLegacy) | [croizat](https://github.com/Jaksuhn) | 7.2 | 旧版SND，直接从punish的dc拿的 |
-| [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.2 | 汉化 |
-| [BOCCHI](https://github.com/Ookura-Risona/OccultCrescentHelper) | [Faye](https://github.com/OhKannaDuh) | 7.2 | 汉化 |
+| [AutoDuty](https://github.com/Ookura-Risona/AutoDuty) | [Herculezz](https://github.com/Herculezz55) | 7.3 | 参考[MisaUo](https://github.com/MisaUo)的汉化，并汉化部分新增内容 |
+| [Price Insight](https://github.com/Ookura-Risona/ffxiv-priceinsight) | [Kouzukii](https://github.com/Kouzukii) | 7.3 | 汉化 |
+| [VIsland](https://github.com/Ookura-Risona/ffxiv_visland-cn) | [veyn](https://github.com/awgil) | 7.3 | 原本地化作者[AtmoOmen](https://github.com/AtmoOmen)停止维护，进行后续更新 |
+| [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.3 | 汉化，质量很差，但应该基本都能看懂 |
+| [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.3 | 汉化 |
+| [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.3 | 汉化 |
+| [BOCCHI](https://github.com/Ookura-Risona/OccultCrescentHelper) | [Faye](https://github.com/OhKannaDuh) | 7.3 | 汉化，现由[逆光](https://github.com/NiGuangOwO)维护，请使用他的版本 |
+| [Eureka Linker](https://github.com/Ookura-Risona/EurekaTrackerAutoPopper) | [Infi](https://github.com/Infiziert90) | 7.3 |  |
