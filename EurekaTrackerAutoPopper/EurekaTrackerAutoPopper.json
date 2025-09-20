@@ -2,7 +2,7 @@
   "Author": "Infi, electr0sheep",
   "Name": "Eureka Linker",
   "InternalName": "EurekaTrackerAutoPopper",
-  "AssemblyVersion": "1.5.8.2",
+  "AssemblyVersion": "1.5.9.4",
   "Description": "Automatically notifies you about NMs in Eureka, with the ability to pop them on a tracker.\nOther Features:\n- Fairy Finder\n- Bunny Timer Window\n- Bunny Coffer Helper\n- Stats\n- Quest Guide (clickable coords)\n- Localized (DE, FR, JA)\n\nOccult:\n- Random Treasure Proximity Notification\n- Bunny Carrot Proximity Notification\n- Pot Coffer Helper\n- Pot Timer Window\n- Map Markers For Treasure, Bunny, Pot",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Infiziert90/EurekaTrackerAutoPopper",
@@ -22,7 +22,7 @@
     "Fates",
     "CEs"
   ],
-  "DalamudApiLevel": 12,
+  "DalamudApiLevel": 13,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
