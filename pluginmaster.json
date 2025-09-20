@@ -49,16 +49,16 @@
   {
     "Name": "V(ery) Island",
     "InternalName": "visland",
-    "AssemblyVersion": "0.0.0.134",
+    "AssemblyVersion": "0.0.0.135",
     "Author": "veyn, AtmoOmen",
     "Punchline": "自动化无人岛采集作业",
     "Description": "自动化无人岛采集/工房作业等等\n",
      "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
+    "DalamudApiLevel": 13,
     "AcceptsFeedback": true,
     "RepoUrl": "https://github.com/Ookura-Risona/ffxiv_visland-cn",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/V(ery)%20Island/latest.zip"
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/visland/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/visland/latest.zip"
   },
   {
     "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
