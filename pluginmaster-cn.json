@@ -113,7 +113,7 @@
     "RepoUrl": "https://github.com/Ookura-Risona/QoLBar",
     "AssemblyVersion": "2.3.3.8",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "13",
+    "DalamudApiLevel": "14",
     "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
     "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
     "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
