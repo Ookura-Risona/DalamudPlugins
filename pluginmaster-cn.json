@@ -111,7 +111,7 @@
     "Description": "一个给聊天命令或其他插件、宏等等提供简单、可定制界面的插件\n最开始这个插件会显示为界面下方的一个小方框。",
     "InternalName": "QoLBar",
     "RepoUrl": "https://github.com/Ookura-Risona/QoLBar",
-    "AssemblyVersion": "2.3.3.7",
+    "AssemblyVersion": "2.3.3.8",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "13",
     "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
