@@ -126,7 +126,7 @@
     "Description": "可能可以用\nAutomatically notifies you about NMs in Eureka, with the ability to pop them on a tracker.\nOther Features:\n- Fairy Finder\n- Bunny Timer Window\n- Bunny Coffer Helper\n- Stats\n- Quest Guide (clickable coords)\n- Localized (DE, FR, JA)\n\nOccult:\n- Random Treasure Proximity Notification\n- Bunny Carrot Proximity Notification\n- Pot Coffer Helper\n- Pot Timer Window\n- Map Markers For Treasure, Bunny, Pot",
     "InternalName": "EurekaTrackerAutoPopper",
     "RepoUrl": "https://github.com/Ookura-Risona/EurekaTrackerAutoPopper",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "Tags": [
       "Plugin",
       "Eureka",
@@ -144,7 +144,7 @@
       "CEs"
     ],
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "13",
+    "DalamudApiLevel": "14",
     "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/EurekaTrackerAutoPopper/images/icon.png",
     "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
     "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
