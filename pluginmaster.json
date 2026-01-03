@@ -169,5 +169,19 @@
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
     "DownloadCount": 0
+  },
+  {
+    "Author": "Risona",
+    "Name": "优雷卡掉级",
+    "Punchline": "",
+    "Description": "纯vibe coding产物，不建议不认识我的人使用",
+    "InternalName": "EurekaDelevel",
+    "RepoUrl": "https://github.com/Ookura-Risona/EurekaDelevel",
+    "AssemblyVersion": "0.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "14",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaDelevel/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaDelevel/latest.zip",
+    "DownloadCount": 0
   }
 ]
