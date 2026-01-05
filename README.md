@@ -31,4 +31,4 @@ https://gh.risona.top/pluginmaster.json
 
 | 名称      | 作者      | 备注 |
 |----------|----------|----------|
-| [BOCCHI](https://github.com/Ookura-Risona/OccultCrescentHelper) | [Faye](https://github.com/OhKannaDuh) |  | 由[逆光](https://github.com/NiGuangOwO)维护，请使用他的版本 |
+| [BOCCHI](https://github.com/Ookura-Risona/OccultCrescentHelper) | [Faye](https://github.com/OhKannaDuh) | 由[逆光](https://github.com/NiGuangOwO)维护，请使用他的版本 |
