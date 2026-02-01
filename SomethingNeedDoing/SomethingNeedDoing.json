@@ -3,6 +3,7 @@
   "Name": "Something Need Doing",
   "InternalName": "SomethingNeedDoing",
   "AssemblyVersion": "0.0.0.0",
+  "MinimumDalamudVersion": "14.0.0.0",
   "Description": "Now for more than crafting!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Jaksuhn/SomethingNeedDoing",
@@ -13,7 +14,7 @@
     "lua",
     "scripting"
   ],
-  "DalamudApiLevel": 13,
+  "DalamudApiLevel": 14,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

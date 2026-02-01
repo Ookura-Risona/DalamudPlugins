@@ -98,10 +98,9 @@
     "Description": "现在不只是制作！\n",
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Ookura-Risona/SomethingNeedDoing",
-    "AssemblyVersion": "13.59",
+    "AssemblyVersion": "14.6",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "14",
-    "IconUrl": "https://s3.puni.sh/media/plugin/25/icon-6h5x17j9gpr.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
     "DownloadCount": 0
@@ -125,7 +124,7 @@
     "Author": "Infi, electr0sheep",
     "Name": "Eureka Linker",
     "Punchline": "We All Love Eureka And Occult",
-    "Description": "可能可以用\nAutomatically notifies you about NMs in Eureka, with the ability to pop them on a tracker.\nOther Features:\n- Fairy Finder\n- Bunny Timer Window\n- Bunny Coffer Helper\n- Stats\n- Quest Guide (clickable coords)\n- Localized (DE, FR, JA)\n\nOccult:\n- Random Treasure Proximity Notification\n- Bunny Carrot Proximity Notification\n- Pot Coffer Helper\n- Pot Timer Window\n- Map Markers For Treasure, Bunny, Pot",
+    "Description": "可能可以用",
     "InternalName": "EurekaTrackerAutoPopper",
     "RepoUrl": "https://github.com/Ookura-Risona/EurekaTrackerAutoPopper",
     "AssemblyVersion": "0.0.0.3",
@@ -150,24 +149,6 @@
     "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/EurekaTrackerAutoPopper/images/icon.png",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
-    "DownloadCount": 0
-  },
-  {
-    "Author": "ocealot, Dragonw2333（汉化）",
-    "Name": "JobBars",
-    "Punchline": "额外职业量谱",
-    "Description": "额外的职业量谱、团队增益计时、减伤监视等功能。图标来自 PAPACHIN",
-    "InternalName": "JobBars",
-    "AssemblyVersion": "1.3.2.1",
-    "Tags": [
-    "UI",
-    "Bars"
-    ],
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "12",
-    "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/JobBars/images/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/JobBars/latest.zip",
     "DownloadCount": 0
   },
   {
