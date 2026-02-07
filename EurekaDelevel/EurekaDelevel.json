@@ -1,0 +1,18 @@
+{
+  "Author": "Risona",
+  "Name": "优雷卡掉级",
+  "InternalName": "EurekaDelevel",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "优雷卡掉级",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Eureka"
+  ],
+  "DalamudApiLevel": 14,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "",
+  "AcceptsFeedback": true
+}
