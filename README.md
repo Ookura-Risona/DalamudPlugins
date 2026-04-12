@@ -26,6 +26,8 @@ https://gh.risona.top/pluginmaster.json
 | [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.4 | 汉化 |
 | [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.4 | 汉化 |
 | [Eureka Linker](https://github.com/Ookura-Risona/EurekaTrackerAutoPopper) | [Infi](https://github.com/Infiziert90) | 7.4 |  |
+| [EurekaDelevel](https://github.com/Ookura-Risona/EurekaDelevel) | [Risona](https://github.com/Ookura-Risona) | 7.4 |  |
+
 
 ## 已被移除的插件
 
