@@ -98,7 +98,7 @@
     "Description": "现在不只是制作！\n",
     "InternalName": "SomethingNeedDoing",
     "RepoUrl": "https://github.com/Ookura-Risona/SomethingNeedDoing",
-    "AssemblyVersion": "14.7",
+    "AssemblyVersion": "15.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Ookura-Risona/DalamudPlugins/master/SomethingNeedDoing/latest.zip",
