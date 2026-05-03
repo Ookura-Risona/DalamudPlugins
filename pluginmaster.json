@@ -35,7 +35,7 @@
       "price"
     ], 
     "CategoryTags": [], 
-    "DalamudApiLevel": 14, 
+    "DalamudApiLevel": 15, 
     "LoadRequiredState": 0, 
     "LoadSync": false, 
     "CanUnloadAsync": false, 
