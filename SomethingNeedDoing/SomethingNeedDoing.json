@@ -2,7 +2,7 @@
   "Author": "daemitus, croizat",
   "Name": "Something Need Doing",
   "InternalName": "SomethingNeedDoing",
-  "AssemblyVersion": "0.0.0.0",
+  "AssemblyVersion": "15.0.0.0",
   "MinimumDalamudVersion": "14.0.0.0",
   "Description": "Now for more than crafting!",
   "ApplicableVersion": "any",
