@@ -163,10 +163,10 @@
       "掉级"
     ],
     "RepoUrl": "https://github.com/Ookura-Risona/EurekaDelevel",
-    "AssemblyVersion": "0.0.0.3",
-    "ChangeLog": "增加了缺少依赖提醒与快捷安装依赖\n删除了对于lifestream的依赖，改为使用内部逻辑进行水晶传送\n补全了各个职业所使用的技能",
+    "AssemblyVersion": "0.0.0.4",
+    "ChangeLog": "当前版本的lifestream似乎有问题，先用不需要水晶传送的点位吧",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": "14",
+    "DalamudApiLevel": "15",
     "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaDelevel/latest.zip",
     "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaDelevel/latest.zip",
     "DownloadCount": 0
