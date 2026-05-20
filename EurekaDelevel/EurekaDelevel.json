@@ -2,13 +2,13 @@
   "Author": "Risona",
   "Name": "优雷卡掉级",
   "InternalName": "EurekaDelevel",
-  "AssemblyVersion": "0.0.0.1",
-  "Description": "优雷卡掉级",
+  "AssemblyVersion": "0.0.0.4",
+  "Description": "",
   "ApplicableVersion": "any",
   "Tags": [
     "Eureka"
   ],
-  "DalamudApiLevel": 14,
+  "DalamudApiLevel": 15,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
