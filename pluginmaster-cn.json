@@ -47,35 +47,6 @@
     "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/PriceInsight-CN/latest.zip"
   },
   {
-    "Name": "V(ery) Island",
-    "InternalName": "visland",
-    "AssemblyVersion": "0.0.0.135",
-    "Author": "veyn, AtmoOmen",
-    "Punchline": "自动化无人岛采集作业",
-    "Description": "自动化无人岛采集/工房作业等等\n",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "AcceptsFeedback": true,
-    "RepoUrl": "https://github.com/Ookura-Risona/ffxiv_visland-cn",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/visland/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/visland/latest.zip"
-  },
-  {
-    "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
-    "Name": "Lifestream",
-    "Punchline": "一个加速以太网旅行和跨服的插件。",
-    "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们\n\n注意：如果你不知道本版本插件与原版Lifestream有什么区别，请勿安装本版本",
-    "InternalName": "Lifestream",
-    "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-    "AssemblyVersion": "2.5.1.16",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "IconUrl": "https://gh-raw.risona.top/NightmareXIV/MyDalamudPlugins/main/icons/lifestream.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/Lifestream/latest.zip",
-    "DownloadCount": 0
-  },
-  {
     "Author": "kawaii, NightmareXIV",
     "Name": "AutoRetainer",
     "Punchline": "在舒适的床上分配任务给你的雇员。",
@@ -117,37 +88,6 @@
     "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
     "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
     "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/QoLBar/latest.zip",
-    "DownloadCount": 0
-  },
-  {
-    "Author": "Infi, electr0sheep",
-    "Name": "Eureka Linker",
-    "Punchline": "We All Love Eureka And Occult",
-    "Description": "可能可以用",
-    "InternalName": "EurekaTrackerAutoPopper",
-    "RepoUrl": "https://github.com/Ookura-Risona/EurekaTrackerAutoPopper",
-    "AssemblyVersion": "0.0.0.3",
-    "Tags": [
-      "Plugin",
-      "Eureka",
-      "Tracker",
-      "Quest",
-      "Elemental",
-      "Fairy",
-      "Bunny",
-      "Occult",
-      "Treasure",
-      "Pots",
-      "Carrot",
-      "Forked Tower",
-      "Fates",
-      "CEs"
-    ],
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "14",
-    "IconUrl": "https://gh-raw.risona.top/goatcorp/PluginDistD17/main/stable/EurekaTrackerAutoPopper/images/icon.png",
-    "DownloadLinkInstall": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
-    "DownloadLinkUpdate": "https://gh-raw.risona.top/Ookura-Risona/DalamudPlugins/master/EurekaTrackerAutoPopper/latest.zip",
     "DownloadCount": 0
   },
   {
