@@ -19,13 +19,11 @@ https://gh.risona.top/pluginmaster.json
 
 | 名称      | 作者      | 游戏版本 | 备注 |
 |----------|----------|----------|----------|
-| [AutoDuty](https://github.com/Ookura-Risona/AutoDuty) | [Herculezz](https://github.com/Herculezz55) | 7.4 | 参考[MisaUo](https://github.com/MisaUo)的汉化，并汉化部分新增内容 |
-| [Price Insight](https://github.com/Ookura-Risona/ffxiv-priceinsight) | [Kouzukii](https://github.com/Kouzukii) | 7.4 | 汉化 |
-| [VIsland](https://github.com/Ookura-Risona/ffxiv_visland-cn) | [veyn](https://github.com/awgil) | 7.3 | 原本地化作者[AtmoOmen](https://github.com/AtmoOmen)停止维护，进行后续更新 |
-| [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.4 | 汉化，质量很差，但应该基本都能看懂 |
-| [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.4 | 汉化 |
-| [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.4 | 汉化 |
-| [Eureka Linker](https://github.com/Ookura-Risona/EurekaTrackerAutoPopper) | [Infi](https://github.com/Infiziert90) | 7.4 |  |
+| [AutoDuty](https://github.com/Ookura-Risona/AutoDuty) | [Herculezz](https://github.com/Herculezz55) | 7.5 | 参考[MisaUo](https://github.com/MisaUo)的汉化，并汉化部分新增内容 |
+| [Price Insight](https://github.com/Ookura-Risona/ffxiv-priceinsight) | [Kouzukii](https://github.com/Kouzukii) | 7.5 | 汉化 |
+| [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.5 | 汉化，质量很差，但应该基本都能看懂 |
+| [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.5 | 汉化 |
+| [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.5 | 汉化 |
 | [EurekaDelevel](https://github.com/Ookura-Risona/EurekaDelevel) | [Risona](https://github.com/Ookura-Risona) | 7.4 |  |
 
 
@@ -34,3 +32,6 @@ https://gh.risona.top/pluginmaster.json
 | 名称      | 作者      | 备注 |
 |----------|----------|----------|
 | [BOCCHI](https://github.com/Ookura-Risona/OccultCrescentHelper) | [Faye](https://github.com/OhKannaDuh) | 由[逆光](https://github.com/NiGuangOwO)维护，请使用他的版本 |
+| [Lifestream](https://github.com/Ookura-Risona/Lifestream) | [NightmareXIV](https://github.com/NightmareXIV) | 原为部分修改的自用版本 |
+| [VIsland](https://github.com/Ookura-Risona/ffxiv_visland-cn) | [veyn](https://github.com/awgil) |  |
+| [Eureka Linker](https://github.com/Ookura-Risona/EurekaTrackerAutoPopper) | [Infi](https://github.com/Infiziert90) | 上游已有中文 |
