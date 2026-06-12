@@ -164,7 +164,7 @@
     "掉级"
   ],
     "RepoUrl": "https://github.com/Ookura-Risona/EurekaDelevel",
-    "AssemblyVersion": "0.0.0.4",
+    "AssemblyVersion": "0.0.0.5",
     "ChangeLog": "当前版本的lifestream似乎有问题，先用不需要水晶传送的点位吧",
     "ApplicableVersion": "any",
     "DalamudApiLevel": "15",
