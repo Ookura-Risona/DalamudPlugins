@@ -24,7 +24,7 @@ https://gh.risona.top/pluginmaster.json
 | [AutoRetainer](https://github.com/Ookura-Risona/AutoRetainer) | [PunishXIV](https://github.com/PunishXIV) | 7.5 | 汉化，质量很差，但应该基本都能看懂 |
 | [SomethingNeedDoing](https://github.com/Ookura-Risona/SomethingNeedDoing) | [croizat](https://github.com/Jaksuhn) | 7.5 | 汉化 |
 | [Qol Bar](https://github.com/Ookura-Risona/QoLBar) | [UnknownX](https://github.com/UnknownX7) | 7.5 | 汉化 |
-| [EurekaDelevel](https://github.com/Ookura-Risona/EurekaDelevel) | [Risona](https://github.com/Ookura-Risona) | 7.4 |  |
+| [EurekaDelevel](https://github.com/Ookura-Risona/EurekaDelevel) | [Risona](https://github.com/Ookura-Risona) | 7.5 |  |
 
 
 ## 已被移除的插件
