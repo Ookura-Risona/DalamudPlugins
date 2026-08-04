@@ -14,14 +14,14 @@
     ],
     "Changelog": "",
     "InternalName": "Questionable",
-    "RepoUrl": "https://github.com/decorwdyun/Questionable",
+    "RepoUrl": "https://github.com/Ookura-Risona/Questionable",
     "IconUrl": "https://s3.puni.sh/media/plugin/94/icon-ayf2kn3uloc.png",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "AssemblyVersion": "15.306.0.7",
-    "DownloadLinkInstall": "https://github.com/Ookura-Risona/Questionable/releases/download/15.306.0.7-cn/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ookura-Risona/Questionable/releases/download/15.306.0.7-cn/latest.zip",
+    "AssemblyVersion": "15.306.1.35",
+    "DownloadLinkInstall": "https://github.com/Ookura-Risona/Questionable/releases/download/15.306.1.35-cn/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ookura-Risona/Questionable/releases/download/15.306.1.35-cn/latest.zip",
   }
 ]
